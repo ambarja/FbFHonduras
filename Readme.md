@@ -16,7 +16,7 @@ Finalmente, este proyecto se irá actualizando según los nuevos datos o reporte
 autoriades encargadas de la temática.
 
 ## Registros históricos 
-<img src= './Graficos/Afectados_barras.png' width= 430, aling = 'left'><img src = './Gráficos/EventosxAfectados_v2.png' width= 430, aling= 'right'>
+<img src= './Graficos/Afectados_barras.png' width= 430, aling = 'left'><img src = './Graficos/EventosxAfectados_v2.png' width= 430, aling= 'right'>
 
 ## Mapas
 <img src="./Mapas/Inundaciones_Departamento.png" width= 430, aling = 'left'><img src="./Mapas/Sequías_Departamento.png" width= 430, aling= 'right'>
