@@ -16,11 +16,10 @@ Finalmente, este proyecto se irá actualizando según los nuevos datos o reporte
 autoriades encargadas de la temática.
 
 ## Registros históricos 
-<img src= './Gráficos/EMERGENCIAS_GUATEMALA_1990_2015_V3.png' width= 430, aling = 'left'><img src = './Gráficos/Frecuencia_Eventos.png' width= 430, aling= 'right'>
-
+<img src= './Graficos/Afectados_barras.png' width= 430, aling = 'left'><img src = './Gráficos/EventosxAfectados_v2.png' width= 430, aling= 'right'>
 
 ## Mapas
-<img src="https://github.com/barja8/FbFGuatemala/blob/master/Mapas/Inundaciones_Deparmento.png" width= 430, aling = 'left'><img src="https://github.com/barja8/FbFGuatemala/blob/master/Mapas/Sequ%C3%ADas_Deparmento.png" width= 430, aling= 'right'>
+<img src="./Mapas/Inundaciones_Departamento.png" width= 430, aling = 'left'><img src="./Mapas/Sequías_Departamento.png" width= 430, aling= 'right'>
 
 
 ## Referencias utilizadas:
